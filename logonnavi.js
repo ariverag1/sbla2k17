@@ -24,10 +24,12 @@
 
 -->
  
- 
-'<div id="menu">' +
+'<div class="dropdown">'
+  '<button onclick="myFunction()" class="dropbtn">Menu</button>'
+
+'<div id="myDropdown">' +
         '<ul>' +
-        '<li class="current_page_item"> <a href="/index.html"       accesskey="1"     title="">Home             </a> </li>' +
+        '<li class="dropdown-content"> <a href="/index.html"       accesskey="1"     title="">Home             </a> </li>' +
         '<li>                           <a href="/history.html"     accesskey="2"     title="">History          </a></li>' +
         <!-- '<li>                      <a href="/calendar.html"    accesskey="3"     title="">Calendar         </a></li>' + -->
         '<li>                           <a href="/events.html"      accesskey="4"     title="">Events           </a></li>' +
@@ -39,6 +41,7 @@
         <!--'<li>                       <a href="/store.html"       accesskey="10"     title="">Store            </a></li>' + -->
         '<li>                           <a href="/shpetinas.html"   accesskey="11"    title="">SHPEtinas        </a></li>' +
         '</ul>' +
+'</div>'
 '</div>';
  
  
