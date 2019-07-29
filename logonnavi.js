@@ -2,8 +2,7 @@
 
 
 
-'<div id="bannerimage">' +    
-'</div>' +
+'<div id="bannerimage">' +  '</div>' +
     
 '<!-- 2. Div for the navigation bar -->' +
   
