@@ -23,9 +23,7 @@
 '</div>';
 
 -->
- 
-'<div class="dropdown">'
-  '<button onclick="myFunction()" class="dropbtn">Menu</button>'
+
 
 '<div id="myDropdown">' +
         '<ul>' +
@@ -41,7 +39,6 @@
         <!--'<li>                       <a href="/store.html"       accesskey="10"     title="">Store            </a></li>' + -->
         '<li>                           <a href="/shpetinas.html"   accesskey="11"    title="">SHPEtinas        </a></li>' +
         '</ul>' +
-'</div>'
 '</div>';
  
  
