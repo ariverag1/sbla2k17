@@ -13,8 +13,8 @@
         '<li><a href="/leadershpe.html" accesskey="4" title="">Our LeaderSHPE</a></li>' +
         '<li><a href="/history.html" accesskey="2" title="">Our History</a></li>' +
         '<li><a href="/shpetinas.html" accesskey="10" title="">SHPEtinas</a></li>' +
-        '<li><a href="/studentchapters.html" accesskey="5" title="">Student Chapters</a></li>' +
         '<li><a href="/howtojoin.html" accesskey="7" title="">Join and Connect</a></li>' +
+        <!--'<li><a href="/studentchapters.html" accesskey="5" title="">Student Chapters</a></li>' +-->
         <!--'<li><a href="/resources.html" accesskey="6" title="">Resources</a></li>' +-->
         <!--'<li><a href="/connect.html" accesskey="8" title="">Connect</a></li>' +-->
         <!-- '<li><a href="/calendar.html" accesskey="3" title="">Calendar</a></li>' + -->
